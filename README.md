@@ -1,4 +1,4 @@
-# Ethereum Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/eth-contract-metadata.svg?style=svg)](https://circleci.com/gh/MetaMask/eth-contract-metadata)
+# Vapory Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/eth-contract-metadata.svg?style=svg)](https://circleci.com/gh/MetaMask/eth-contract-metadata)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-contract-metadata.svg)](https://greenkeeper.io/)
 
